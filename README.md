@@ -49,3 +49,4 @@ npm run dev
 ## Deployment
 
 Deployed using Vercel.
+https://cine-stream-one-bice.vercel.app/
